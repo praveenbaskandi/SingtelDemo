@@ -28,7 +28,7 @@ Based on:
 
 - This image show the list of transaction
 
-<img src="screen-shot/Screenshot_list.png" width="150" height="300"/>
+<img src="screen-shot/Screenshot_game.png" width="150" height="300"/>
 
 
 
