@@ -23,17 +23,11 @@ Based on:
 
 ## Screen Shot
 
-### List of Transactions
+### Game view screen
 
-- This image show the list of transaction
+- This image show the game
+- reset button will reset your game.
+- Once you complete the game dialog appear congratulating you.
+- Try again will reset your step and randomise the game.
 
 <img src="screen-shot/Screenshot_game.png" width="150" height="300"/>
-
-
-
-
-### Full details
-
-- This image show full details of the transactions.
-
-<img src="screen-shot/Screenshot_details.png" width="150" height="300"/>
