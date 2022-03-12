@@ -3,6 +3,7 @@ import {scale} from 'react-native-size-matters';
 
 import {Title} from '../component/Text';
 import {Colors} from '../utils/Colors';
+import {windowHeight} from '../utils/dimension';
 
 export const HeadContainer = styled.View`
   width: 100%;
@@ -15,7 +16,7 @@ export const Cover = styled.TouchableOpacity`
   flex: 1;
   border-color: ${Colors.white};
   background-color: ${({click}) => (click ? Colors.white : Colors.pDarkBlue)};
-  height: ${scale(100)}px;
+  height: ${scale(windowHeight / 6)}px;
   border-radius: ${scale(10)}px;
   margin: ${scale(5)}px;
   justify-content: center;
