@@ -26,7 +26,7 @@ Based on:
 ### Game view screen
 
 - This image show the game
-- reset button will reset your game.
+- Reset button will reset your game.
 - Once you complete the game dialog appear congratulating you.
 - Try again will reset your step and randomise the game.
 
