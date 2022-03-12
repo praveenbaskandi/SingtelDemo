@@ -6,7 +6,6 @@ Based on:
 - [React 17](https://reactjs.org)
 - [React Native 0.65](https://reactnative.dev)
 - [Redux](https://redux.js.org)
-- [React Navigation](https://reactnavigation.org/docs/getting-started/)
 
 ## Getting started
 
